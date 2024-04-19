@@ -1,4 +1,6 @@
 # CrypotClustering
+
+Worked on this assignment with classmates, online resources, and support avenues through the UCB BootCamp resouces.
  
 Instructions
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
